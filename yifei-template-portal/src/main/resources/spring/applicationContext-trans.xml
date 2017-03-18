@@ -32,6 +32,6 @@
 	<!-- 切面 -->
 	<aop:config>
 		<aop:advisor advice-ref="txAdvice"
-			pointcut="execution(* com.1feisoftware.service.*.*(..))" />
+			pointcut="execution(* com.yifei.service.*.*(..))" />
 	</aop:config>
 </beans>
