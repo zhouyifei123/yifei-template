@@ -10,8 +10,8 @@
   <!-- 依赖管理 -->
 	<dependencies>
 		<dependency>
-			<groupId>com.zhengzhou1234</groupId>
-			<artifactId>zhengzhou1234-media-mapper</artifactId>
+			<groupId>com.1feisoftware</groupId>
+			<artifactId>yifei-template-dao</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<!-- Spring -->
